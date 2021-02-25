@@ -1,0 +1,47 @@
+.max-height {
+    min-height: 100vh;
+}
+body {
+    background: var(--lightBlue);
+}
+.message-container {
+    background: var(--mainwhite);
+}
+.message-content {
+    color: var(--lightBlue);
+}
+#submitBtn {
+    background: #0901f3;
+    color: rgb(0, 0, 0);
+}
+#submitBtn:hover {
+    background: #2925b0;
+    color: white;
+}
+  
+.feedback {
+    display: none;
+}  
+.show {
+    display: block;
+}
+
+.card {
+    width: 50% !important;
+    margin-top: 45px !important;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    background: #bdbdbd !important;
+}
+
+h4.text-capitalize {
+    margin-top: 26px;
+} 
+input#message {
+    font-size: 27px;
+}  
+
+
+
+
